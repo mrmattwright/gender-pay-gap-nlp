@@ -1,0 +1,353 @@
+             Geldards Home  0844 736 0006*   PEOPLE  EXPERTISE  Your Industry  Services For Business  Services For The Public & Not For Profit Sectors  Services For Individuals  Products  ADVICE CENTRE  CAREERS  ABOUT  CONTACT & LOCATIONS          Geldards Logo  Menu Button  Search Button           Search  Search Go                 Geldards Logo      Search  Search Go         |   Linked In  Twitter   |   Extranet Client Login   |   English  Welsh  German  French        Geldards    HOME   |   PEOPLE   |      EXPERTISE          Your Industry Automotive Construction & Infrastructure Energy & Resources Healthcare & Life Sciences Retail Sport Technology, Media & Telecoms Transport Food    Services For Business Commercial Corporate Corporate Risk & Insurance Dispute Resolution Employment Information Law Insolvency & Corporate Recovery International Real Estate Tax      Services For The Public & Not-For-Profit Sectors  Central, Devolved & Local Government  Charity & Not-for-profit Education  Health & Social Care  Social Housing      Services For Individuals Who Do We Help? Employment for Individuals Family Medical Negligence Probate & Estates Residential Property & Investments Resolving Disputes Wealth Management Wills & Planning For The Future       Expertise Home  Expertise A-Z   Products  access hr  assetbox  Scinapse Healthcare & Life Sciences  Scinapse Tech & Innovation           |     ADVICE CENTRE          EVENTS  Employment Seminar – Dealing with sexual harassment in workplace      BLOGS  The New Electronic Communications Code – the changes you need to know about      NEWS  Geldards Advise Global Compliance Group Kiwa on UK Acquisition      LEGAL VIEW  How to successfully protect your IP and trade secrets?         Advice Centre Home    Blogs  Events  Legal View  News  Publications            |     CAREERS    |     ABOUT               About Home Awards Cymraeg / Welsh International Environment Diversity Geldards Social Responsibility          |     CONTACT              DERBY        CARDIFF        LONDON        NOTTINGHAM       Contact Home Cardiff Derby Ilkeston London Nottingham    0844 736 0006*  info@geldards.com          endif]-->	
+                  </ul>
+               </div>
+            </div>
+         </div>
+		  
+         <!-- Desktop Nav END -->
+		
+		 
+		 
+		 
+         <div class="container-body push">
+            <!-- MAIN CONTENT AREA HERE -->
+            
+   <!-- Banner -->
+   <div class="banner-outer">
+      <div class="banner">
+         
+      </div>
+   </div>
+   <!-- Banner END -->
+   <!-- Main Content -->
+   
+      <div class="container">
+         <div class="row top-main-row">
+            <div class="col-xs-9">
+               <div class="row">
+                  <div class="col-sm-12 hidden-xs">
+                     <div class=''><div ><ul id='breadcrumb'>
+<li>
+<a href='/Default.aspx' title='Home'>Home</a>
+</li>
+<li>
+<a href='/about.aspx' title='About'>About</a>
+</li>
+<li class='last'>
+<a href='/diversity.aspx' title='Diversity'>Diversity</a>
+</li>
+</ul>
+</div></div>
+                  </div>
+                  <div class="col-sm-12">
+                     <div class=''><div ><h1>DIVERSITY</h1></div></div>
+                  </div>
+               </div>
+            </div>
+            <div class="col-xs-3 hidden-xxs small-illustration">
+               
+            </div>
+         </div>
+		 <hr class="top visible-md visible-sm visible-lg">
+      </div>
+
+   
+   <div class="container">
+      <div class="row">
+	  
+          <div class="col-sm-3 accordian-menu mobile-menu">
+		 	<div class="expertise-button expertise-button-small hidden-sm hidden-md hidden-lg">
+			  
+               <a data-toggle="collapse" href="#collapseFour">
+                  <div class="arrow">
+                     <div class="accordian-dropdown-arrow">&nbsp;</div>
+                  </div>
+                  <div class="menu-heading">ABOUT MENU</div>
+               </a>
+         
+			</div>
+			
+	        <div id="collapseFour" class="collapse expertise-menu">
+               <div class=''><div ><ul class="sf-menu"><li  class="first"><a href="/about.aspx">About Home</a></li><li><a href="/awards.aspx" rel="noindex, nofollow">Awards</a></li><li><a href="/cymraeg.aspx">Cymraeg / Welsh</a></li><li><a href="/international-about.aspx">International</a></li><li><a href="/environment.aspx" rel="noindex, nofollow">Environment</a></li><li  class="current"><a href="/diversity.aspx" rel="noindex, nofollow">Diversity</a></li><li  class="last"><a href="/geldards-social-responsibility.aspx" rel="noindex, nofollow">Geldards Social Responsibility</a></li></ul></div></div>
+            </div>
+			
+	     </div>
+		 
+		 	 
+         <div class="col-sm-6 content">
+		 <hr class="top visible-xs">	
+            <div class=''><div ><p class="lead">Geldards is committed to ensuring a consistently discrimination free workplace, promoting equality and diversity.</p>
+
+<p>This means that we make sure our employment practices are fair, flexible and enabling so each member of staff can reach their full potential.</p>
+
+<p>Promoting a culture which supports equal opportunities and diversity is not just about responding to legislation or regulation. By working towards the elimination of prejudice and discrimination, Geldards is able to ensure it provides a first class service to our clients and our staff feel valued. </p>
+
+<p>Furthermore, ensuring we attract, develop and retain the best people with diverse characteristics is vital to our firm’s continued success.</p><p>You can view Geldards' latest diversity report by <strong><a href="/Userfiles/documents/Diversity.pdf">clicking here.</a>&nbsp;</strong></p><p><span style="font-size: 19.2px;"></span></p><p>You can view Geldards' Gender Pay Gap Report 2018 by <strong><a href="https://www.geldards.com/UserFiles/documents/Geldards%20Gender%20Pay%20Gap%20Report%202018.pdf">clicking here.</a>&nbsp;</strong></p><p><span style="font-size: 19.2px;"></span></p></div></div><div class=''><div ><div id="placeholderMain_baseExpertise_1_3_control_1_divChart" style="width:auto;height:auto;"></div>
+<script type="text/javascript" language="javascript">
+    $(document).ready(function () {
+        $.ajax({
+            type: 'GET',
+            url: 'https://docs.google.com/spreadsheets/d/1aqz4kbaBGGXW5kNSFR7GX7GsEG4kFSrWMGmvD49sNgg/edit?usp=sharing',
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            success: function (chartData) {
+                var myChart = new xChart('bar', chartData, '#placeholderMain_baseExpertise_1_3_control_1_divChart');
+            }
+        });
+    });
+</script></div></div>
+            <hr>
+            <!-- Go to www.addthis.com/dashboard to customize your tools -->
+            <div class="sharingBar">
+               <p>Share this page</p>
+            </div>
+            <div class="addthis_sharing_toolbox">
+            </div>
+            <br class="sharing-bar-clear" />
+            <hr>
+         </div>
+         <div class="col-sm-3 col-xs-12 col-xxs-12 wow fadeInLeft">
+            <div class="row">
+               <div class=''><div >
+        <div id="placeholderMain_baseHome_2_1_control_0_rptr_divItem_0" data-wow-delay="0s" class=" col-sm-12 col-xs-6 col-xxs-12 wow fadeInLeft news-item">
+            <h3><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblCategory_0" class="news-background">News</span></h3>
+            <div class="news-thumb"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypImage_0" href="/geldards-advise-global-compliance-group-kiwa-on-uk-acquisition.aspx"><img id="placeholderMain_baseHome_2_1_control_0_rptr_img1_0" src="/UserFiles/advicecentre/news/Corporate/Corporate%20Deals%20Thumbnail%20Money.jpg" alt="Geldards Advise Global Compliance Group Kiwa on UK Acquisition" /></a></div>
+            <div class="grey-background">
+                <div class="heading"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypTitle_0" href="/geldards-advise-global-compliance-group-kiwa-on-uk-acquisition.aspx">Geldards Advise Global Compliance Group Kiwa on UK Acquisition</a></div>
+                <div class="info"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblDateCreated_0">18/04/2018</span></div>
+                <div class="source"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblSourceName_0"></span></div>
+                <div class="summary">Geldards’ Nottingham-based corporate team successfully advised Kiwa UK Compliance Holdings Ltd on its acquisition of Alchem Industries Ltd. </div>
+                <a id="placeholderMain_baseHome_2_1_control_0_rptr_hypReadMore_0" class="more" href="/geldards-advise-global-compliance-group-kiwa-on-uk-acquisition.aspx">more...</a>
+            </div>
+        </div>
+        
+        
+    
+        <div id="placeholderMain_baseHome_2_1_control_0_rptr_divItem_1" data-wow-delay="0s" class=" col-sm-12 col-xs-6 col-xxs-12 wow fadeInLeft legal-view-item">
+            <h3><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblCategory_1" class="legal-view-background">Legal View</span></h3>
+            <div class="news-thumb"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypImage_1" href="/how-to-successfully-protect-your-ip-and-trade-secrets.aspx"><img id="placeholderMain_baseHome_2_1_control_0_rptr_img1_1" src="/UserFiles/advicecentre/legalview/Life%20Sciences/Geldards%e2%80%99%20Tips%20for%20Success%20when%20obtaining%20EIS%20investment%20Web%20Thumb.jpg" alt="How to successfully protect your IP and trade secrets?" /></a></div>
+            <div class="grey-background">
+                <div class="heading"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypTitle_1" href="/how-to-successfully-protect-your-ip-and-trade-secrets.aspx">How to successfully protect your IP and trade secrets?</a></div>
+                <div class="info"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblDateCreated_1">05/04/2018</span></div>
+                <div class="source"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblSourceName_1"></span></div>
+                <div class="summary">In this article, we discuss the way in which our Life Sciences Team can assist your business in successfully protecting these assets.</div>
+                <a id="placeholderMain_baseHome_2_1_control_0_rptr_hypReadMore_1" class="more" href="/how-to-successfully-protect-your-ip-and-trade-secrets.aspx">more...</a>
+            </div>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        
+    
+        <div id="placeholderMain_baseHome_2_1_control_0_rptr_divItem_2" data-wow-delay="0s" class=" col-sm-12 col-xs-6 col-xxs-12 wow fadeInLeft events-item">
+            <h3><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblCategory_2" class="events-background">Events</span></h3>
+            <div class="news-thumb"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypImage_2" href="/10.05.18-spring-employment-seminar.aspx"><img id="placeholderMain_baseHome_2_1_control_0_rptr_img1_2" src="/UserFiles/advicecentre/events/Employment/thumb.jpg" alt="Employment Seminar – Dealing with sexual harassment in workplace" /></a></div>
+            <div class="grey-background">
+                <div class="heading"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypTitle_2" href="/10.05.18-spring-employment-seminar.aspx">Employment Seminar – Dealing with sexual harassment in workplace</a></div>
+                <div class="info"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblDateCreated_2">10/05/2017</span></div>
+                <div class="source"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblSourceName_2">10th May 2018 - Cardiff</span></div>
+                <div class="summary">Our Cardiff Employment Team would like to invite you to the next Spring Employment Seminar </div>
+                <a id="placeholderMain_baseHome_2_1_control_0_rptr_hypReadMore_2" class="more" href="/10.05.18-spring-employment-seminar.aspx">more...</a>
+            </div>
+        </div>
+        
+        
+    
+        <div id="placeholderMain_baseHome_2_1_control_0_rptr_divItem_3" data-wow-delay="0s" class=" col-sm-12 col-xs-6 col-xxs-12 wow fadeInLeft blogs-item">
+            <h3><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblCategory_3" class="blogs-background">Blogs</span></h3>
+            <div class="news-thumb"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypImage_3" href="/new-electronic-communications-code-the-changes.aspx"><img id="placeholderMain_baseHome_2_1_control_0_rptr_img1_3" src="/UserFiles/advicecentre/legalview/electronic%20communications%20code%20-%20thumbnail.png" alt="The New Electronic Communications Code – the changes you need to know about" /></a></div>
+            <div class="grey-background">
+                <div class="heading"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypTitle_3" href="/new-electronic-communications-code-the-changes.aspx">The New Electronic Communications Code – the changes you need to know about</a></div>
+                <div class="info"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblDateCreated_3">05/02/2018</span></div>
+                <div class="source"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblSourceName_3"></span></div>
+                <div class="summary">Do you have electronic communications equipment (eg telephone masts etc) on your land or buildings; or you are an electronic communications provider?</div>
+                <a id="placeholderMain_baseHome_2_1_control_0_rptr_hypReadMore_3" class="more" href="/new-electronic-communications-code-the-changes.aspx">more...</a>
+            </div>
+        </div>
+        <div class="clearfix visible-xs"></div>
+        
+    
+        <div id="placeholderMain_baseHome_2_1_control_0_rptr_divItem_4" data-wow-delay="0s" class=" col-sm-12 col-xs-6 col-xxs-12 wow fadeInLeft publications-item">
+            <h3><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblCategory_4" class="publications-background">Publications</span></h3>
+            <div class="news-thumb"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypImage_4" href="/guide-for-businesses---managing-investigations--and--disciplinaries.aspx"><img id="placeholderMain_baseHome_2_1_control_0_rptr_img1_4" src="/UserFiles/advicecentre/publications/employment-contract-thumbnail.jpg" alt="The Geldards Guide For Business - Managing Investigations &amp;amp; Disciplinaries" /></a></div>
+            <div class="grey-background">
+                <div class="heading"><a id="placeholderMain_baseHome_2_1_control_0_rptr_hypTitle_4" href="/guide-for-businesses---managing-investigations--and--disciplinaries.aspx">The Geldards Guide For Business - Managing Investigations &amp; Disciplinaries</a></div>
+                <div class="info"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblDateCreated_4">11/05/2017</span></div>
+                <div class="source"><span id="placeholderMain_baseHome_2_1_control_0_rptr_lblSourceName_4"></span></div>
+                <div class="summary">Geldards helpful, back to basic guide on managing investigations & disciplinaries. From Being objective to ensuring everything is documented.</div>
+                <a id="placeholderMain_baseHome_2_1_control_0_rptr_hypReadMore_4" class="more" href="/guide-for-businesses---managing-investigations--and--disciplinaries.aspx">more...</a>
+            </div>
+        </div>
+        
+        
+    
+        <div class="clear clearfix"></div>
+    </div></div>
+               <div class="col-sm-12">
+                  <a class="subLink" href="#"><span class="subLink-background">VISIT ADVICE CENTRE &gt;&gt;</span></a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- Main Content END -->  
+
+            <!-- END MAIN CONTENT AREA -->
+         </div>
+		
+		 
+         <!-- Footer -->
+		 
+            <div class=''><div ><div id="cookie_1_control_0_pnlCookieWarning" class="cookie-message">
+	
+    
+    <div id="cookie_1_control_0_divCaption" class="cookie-left">
+        <span id="cookie_1_control_0_lblCaption">This site uses cookies to improve user experience. By using this site you agree to our</span>&nbsp;
+        <a id="cookie_1_control_0_hypPolicyPage" href="/cookie-policy.aspx">cookie use.</a>
+    </div>
+    <div class='warning-acceptance'>
+        <a id="cookie_1_control_0_btnAcceptCookies" class="button" href="javascript:__doPostBack(&#39;ctl00$ctl00$cookie_1$control_0$btnAcceptCookies&#39;,&#39;&#39;)">CLOSE</a>
+        
+    </div>
+
+</div>
+</div></div>
+			
+         <footer>
+            <div class="container">
+               <div class="row footer-row-1">
+                  <div class="col-sm-3 col-xs-6 col-xxs-12">
+                     <ul>
+					 <li><a href="/">Home</a></li>
+					 <li><a href="/people.aspx">People</a></li>
+					 <li><a href="/expertise.aspx">Expertise</a></li>
+					 <li><a href="/advice-centre.aspx">Advice Centre</a></li>
+					 <li><a href="/careers.aspx">Careers</a></li>
+					 <li><a href="/about.aspx">About</a></li>
+					 <li><a href="/contact.aspx">Contact</a></li>
+                      
+					  </ul>
+					  <ul>
+                        <li><a href="https://geldards.highq.com " target="_blank">Extranet Client Login</a></li>
+                        <li><a href="/terms-and-conditions.aspx">Terms & Conditions</a></li>
+                        <li><a href="/cookie-policy.aspx">Cookie Policy</a></li>
+                        <li><a href="/website-accessibility.aspx">Website Accessibility</a></li>
+                     </ul>
+                  </div>
+                  <div class="col-sm-3 col-xs-6 col-xxs-12">
+                     <ul>
+                        <li><a href="/cardiff.aspx">Cardiff</a></li>
+                        <li><a href="/derby.aspx">Derby</a></li>
+                        <li><a href="/ilkeston.aspx">Ilkeston</a></li>
+                        <li><a href="/london.aspx">London</a></li>
+                        <li><a href="/nottingham.aspx">Nottingham</a></li>
+                     </ul>
+                     <ul>
+                        <li><a target="_blank" href="https://twitter.com/Geldards">Twitter</a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/company/geldards-llp">LinkedIn</a></li>
+                        <li><a href="tel:08447360006">0844 736 0006*</a></li>
+                        <li><a href="mailto:info@geldards.com">info@geldards.com</a></li>
+                        <li><a href="/in-the-loop.aspx">Newsletter sign up</a></li>
+                     </ul>
+                  </div>
+                  <div class="col-sm-6 col-xs-12 col-xxs-12 twitter-top">
+                     <a class="twitter-timeline"
+                        height="260px"
+                        width="100%"
+                        data-theme="dark"
+                        data-link-color="#0cb7e1"
+                        data-chrome="noheader nofooter transparent"
+                        href="https://twitter.com/Geldards" data-widget-id="558286315855552512">
+                     Tweets by @Geldards...
+                     </a>
+                  </div>
+               </div>
+               <div class="row footer-row">
+                  <div class="col-sm-12">
+                     <img src="/MasterPages/Geldards/img/Geldards-Landscape-White-Lines.png" alt=""/>
+					 <p><br/>
+					 * Please note that the cost of calling our 0844 numbers will include a &quot;service&quot; charge of 6p per minute and an &quot;access&quot; charge from your phone company. Geldards will not receive any payment from the call charges.<br/><br/><a class="ah" target="blank" href="https://www.archerhampson.com/"><img src="https://archerhampson.com/wp-content/uploads/2017/06/ahlogo2.png" alt="archer hampson logo" height="42" width="42"/>Website by Archer Hampson</a></p>
+                  </div>
+               </div>
+            </div>
+         </footer>
+         <!-- Footer END-->
+         <!-- How Can We Help Bar START--> 
+         <div class="slide-out-div hidden-xs wow bounceInUp" data-wow-delay="5s">
+            <a class="handle" href="/">Content</a>
+            <nav>
+               <ul>
+                  <li>
+                     <a href="/people.aspx">FIND A LAWYER >></a>
+                    <div class="search-area">
+                    <label class="screenreader" for="txtSearch2">People Search</label>
+                    <input id="txtSearch2" type="text" /><a href="javascript:SearchPeople();" class="search-button-side-panel" alt="People Search">
+                    <span class="screenreader">People Search</span>
+                    </a></div>
+                  </li>
+                  <li class="border"><a href="/expertise.aspx">CONTACT US >></a></li>
+                  <li class="border"><a href="#">FIND AN OFFICE >></a></li>
+                  <li class="border">
+                     <a href="#">SEARCH OUR EXPERTISE >></a>
+                    <div class="search-area">
+                    <label class="screenreader" for="txtSearch3">Expertise Search</label>
+                    <input id="txtSearch3" type="text" /><a href="javascript:SearchExpertise();" class="search-button-side-panel" alt="Expertise Search">
+                    <span class="screenreader">Expertise Search</span></a></div>
+                  </li>
+               </ul>
+            </nav>
+         </div>
+         <!-- How Can We Help Bar END--> 
+         <script src="/MasterPages/Geldards/js/bootstrap.min.js"></script>
+
+         <script src="/MasterPages/Geldards/js/pushy.js"></script>
+         <script src="/MasterPages/Geldards/js/tabslideout.js"></script>
+         <script src="/MasterPages/Geldards/js/modernizr.custom.71422.js"></script>
+         <script>
+            new WOW().init();
+         </script>
+         <script type="text/javascript">
+            $(function(){
+                $('.slide-out-div').tabSlideOut({
+                    tabHandle: '.handle',                     //class of the element that will become your tab
+                    pathToTabImage: '/MasterPages/Geldards/img/home/how-can-we-help.png', //path to the image for the tab //Optionally can be set using css
+                    imageHeight: '140px',                     //height of tab image           //Optionally can be set using css
+                    imageWidth: '35px',                       //width of tab image            //Optionally can be set using css
+                    tabLocation: 'left',                      //side of screen where tab lives, top, right, bottom, or left
+                    speed: 300,                               //speed of animation
+                    action: 'click',                          //options: 'click' or 'hover', action to trigger animation
+                    topPos: '40%',                          //position from the top/ use if tabLocation is left or right
+                    fixedPosition: true                      //options: true makes it stick(fixed position) on scroll
+                });
+            
+            });
+            $("#txtSearch2").keydown(function (event) {
+                if (event.keyCode == 13) {
+                    event.stopPropagation();
+                    event.preventDefault();
+                    window.event.cancelBubble = true;
+                    window.event.returnValue = false;
+                    SearchPeople();
+                    return false;
+                }
+            });
+            $("#txtSearch3").keydown(function (event) {
+                if (event.keyCode == 13) {
+                    event.stopPropagation();
+                    event.preventDefault();
+                    window.event.cancelBubble = true;
+                    window.event.returnValue = false;
+                    SearchExpertise();
+                    return false;
+                }
+            });
+            function SearchPeople() {
+                window.location = "/people.aspx?k=" + $("#txtSearch2").val();
+            }
+            function SearchExpertise() {
+                window.location = "/search-results.aspx?t=Expertise&k=" + $("#txtSearch3").val();
+            }
+         </script>
+      
+
+<script type="text/javascript">
+//<![CDATA[
+var IsPopupProxy = true;//] 

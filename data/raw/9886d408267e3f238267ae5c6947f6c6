@@ -1,0 +1,246 @@
+         Jump to navigation                    Access to sites    corporate website - EN  site corporate - FR  Career website - EN  Faurecia France - FR  Faurecia China – CN  Faurecia Germany - DE  Faurecia North America - EN  Faurecia Russia – RU    Web Tv  Our locations                EN   FR          About us  Array
+(
+    [type] => subhome_standard
+    [nid] => 230
+    [accroche] => Array
+        (
+            [image1v] => 
+            [image1h] => 
+            [image2v] => 
+            [image2h] => public://corporate/megamenu/image/horizontal/80s_april_950x534.jpg
+            [video1] => 
+            [video1_img] => 
+            [video2] => public://media/commons/videos/faurecia80s_apr18_va_100mo.mp4
+            [video2_img] => public://corporate/megamenu/video/80s_april_950x534.jpg
+            [player_video_url2] => /L2ZpbGVzL2NvcnBvcmF0ZS9tZWdhbWVudS92aWRlby84MHNfYXByaWxfOTUweDUzNC5qcGc=/L2ZpbGVzL21lZGlhL2NvbW1vbnMvdmlkZW9zL2ZhdXJlY2lhODBzX2FwcjE4X3ZhXzEwMG1vLm1wNA==/758/426/player_video
+            [legend1] => 
+            [legend2] => 
+            [title1] => 
+            [title2] => Faurecia 80s - April Group news
+        )
+
+    [col_megmenu_class] => col-3
+    [subpage] => Array
+        (
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Our Business Groups
+                            [href] => node/575
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Governance
+                            [href] => node/282
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => Faurecia's culture
+                            [href] => node/5199
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Partner of choice 
+                            [href] => node/568
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Corporate Responsibility
+                            [href] => node/1014
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => Faurecia Worldwide
+                            [href] => node/657
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+)      Our Business Groups    Governance    Faurecia's culture       Partner of choice   Corporate Responsibility   Faurecia Worldwide            Faurecia 80s - April Group news        Innovation  Array
+(
+    [type] => sous_home_innovation
+    [nid] => 5305
+    [accroche] => Array
+        (
+            [image1v] => 
+            [image1h] => 
+            [image2v] => 
+            [image2h] => public://corporate/megamenu/image/vertical/ces-byton-cover-950x534.jpg
+            [video1] => 
+            [video1_img] => 
+            [video2] => public://media/commons/videos/CES_2018/en_faurecia_on_board.mp4
+            [video2_img] => public://corporate/megamenu/video/ces-byton-cover-950x534.jpg
+            [player_video_url2] => /L2ZpbGVzL2NvcnBvcmF0ZS9tZWdhbWVudS92aWRlby9jZXMtYnl0b24tY292ZXItOTUweDUzNC5qcGc=/L2ZpbGVzL21lZGlhL2NvbW1vbnMvdmlkZW9zL0NFU18yMDE4L2VuX2ZhdXJlY2lhX29uX2JvYXJkLm1wNA==/758/426/player_video
+            [legend1] => 
+            [legend2] => 
+            [title1] => 
+            [title2] => CES 2018 - Faurecia equips Byton's concept
+            [link2] => /en/faurecia-ces.com
+        )
+
+    [col_megmenu_class] => col-3
+    [subpage] => Array
+        (
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Smart life on board
+                            [href] => node/5301
+                            [target] => _blank
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Sustainable Mobility
+                            [href] => node/5303
+                            [target] => _blank
+                        )
+
+                    [2] => Array
+                        (
+                            [title] => A global innovation ecosystem
+                            [href] => node/6556
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [title] => Faurecia on board
+                            [href] => http://www.faurecia.com/en/highlights/faurecia-board
+                            [target] => _blank
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Discover our innovations
+                            [href] => node/5298
+                            [target] => _blank
+                        )
+
+                )
+
+        )
+
+)      Smart life on board    Sustainable Mobility    A global innovation ecosystem    Faurecia on board       Discover our innovations             CES 2018 - Faurecia equips Byton's concept        Finance  Array
+(
+    [type] => subhome_finance
+    [nid] => 354
+    [accroche] => Array
+        (
+            [image1v] => 
+            [image1h] => 
+            [image2v] => 
+            [image2h] => public://corporate/megamenu/image/horizontal/80s_april_950x534_1.jpg
+            [video1] => 
+            [video1_img] => 
+            [video2] => public://media/commons/videos/faurecia80s_apr18_va_100mo.mp4
+            [video2_img] => public://corporate/megamenu/video/80s_april_950x534_1.jpg
+            [player_video_url2] => /L2ZpbGVzL2NvcnBvcmF0ZS9tZWdhbWVudS92aWRlby84MHNfYXByaWxfOTUweDUzNF8xLmpwZw==/L2ZpbGVzL21lZGlhL2NvbW1vbnMvdmlkZW9zL2ZhdXJlY2lhODBzX2FwcjE4X3ZhXzEwMG1vLm1wNA==/758/426/player_video
+            [legend1] => 
+            [legend2] => 
+            [title1] => 
+            [title2] => Faurecia 80s - April Group news
+        )
+
+    [col_megmenu_class] => col-3
+    [subpage] => Array
+        (
+            [1] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => Key Figures
+                            [href] => node/237
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Share information
+                            [href] => node/379
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [0] => Array
+                        (
+                            [title] => AMF Regulated Information
+                            [href] => node/377
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [title] => Shareholders area
+                            [href] => node/751
+                            [level2] => Array
+                                (
+                                )
+
+                        )
+
+                )
+
+        )
+
+)      Key Figures    Share information       AMF Regulated Information   Shareholders area            Faurecia 80s - April Group news        Newsroom  Array
+(
+)   Careers  Array
+(
+)           You are : Candidate  Supplier  Analyst or investor  Journalist                                   Q1 SALES  STRONG SALES GROWTH OF 9.3% AT CONSTANT CURRENCIES, SIGNIFICANTLY OUTPERFORMING AUTOMOTIVE PRODUCTION IN ALL REGIONS  Read more    TECHNOLOGY  FOR THE 1ST TIME AT THE HANNOVER MESSSE, FAURECIA WILL SHOWCASE ITS FUEL CELL TECHNOLOGIES  Read more    Site opening  FAURECIA OPENS A TECH CENTER IN YOKOHAMA TO ACCELERATE DEVELOPMENT WITH JAPANESE CARMAKERS  Read more    Parole d'expert  BREAKTHROUGH IN LIGHTWEIGHT BIOMATERIALS GAINS MOMENTUM  Read more    Partnership  FAURECIA AND CLEAN AIR ASIA PARTNER TO ACCELERATE THE IMPLEMENTATION OF CLEAN AIR SOLUTIONS IN ASIA  Read more                     Highlights      11/04/2018   FAURECIA AWARDED FOR ITS SUSTAINABLE PROCUREMENT PROGRAM  Faurecia has won an EcoVadis Sustainable Procurement Leadership Award for the global excellence of its “Buy Beyond” procurement...        10/04/2018   FAURECIA OPENS A TECH CENTER IN YOKOHAMA TO ACCELERATE DEVELOPMENT WITH JAPANESE CARMAKERS         30/03/2018   FAURECIA JOINS FORCES WITH THE ACADEMIC AND INDUSTRIAL WORLDS TO CREATE THE PRAIRIE INSTITUTE, A CENTER OF EXCELLENCE DEDICATED TO ARTIFICIAL INTELLIGENCE IN PARIS         28/03/2018   FAURECIA REGISTERS RECORD ORDER INTAKE  WITH A LEADING GERMAN PREMIUM OEM FOR ITS SEATING BUSINESS       See all news                                            Faurecia share price  68 €     Fri, 20 April, 2018 - 10:20  Paris SE NYSE Euronext  Learn more               Leader in our three activities     Seating  Technology that doesn’t take a back seat       Interiors  Leather, wood, aluminum... A thousand ways to customize car interior       Clean Mobility  We put our technological expertise to work for the environment           Inspiring mobility      Smart life on board  The cockpit of the future will be connected, versatile and predictive         Sustainable mobility  Providing the world with cleaner, greener transportation solutions         Discover our innovations  Technologies that drive well-being      Discover our innovations                  Footer   Follow us              Contact      Photolibrary               © 2013 Faurecia  Sitemap  Credits  Legals     Finance   Key Figures  Share information  AMF Regulated Information  Shareholders area       About us   Our Business Groups  Governance  Corporate Responsibility  Faurecia Worldwide  Faurecia's culture   Newsroom  Actualités  Careers    You are   Candidate  Supplier  Analyst or investor  Journalist                 

@@ -1,0 +1,77 @@
+                                  Consumer    Small Business    Business    More...       About Experian    Careers    Global Sites          ×  Experian Site Sections      About Experian    Careers    Global Sites      Close                                                  Careers Homepage    About Experian    Our business    Our culture    Our opportunities    Our history    Our people    Our work    Our rewards and benefits      Students and Graduates    Sponsored degree programme    Students and Graduates application process    Apprenticeships    Graduate community    Graduate programmes    Placement scheme      Useful links    FAQs    Interview preparation guide    Recruitment agency information      Contact us                                                                       Our people are our greatest advocates:  Go further than you ever thought possible.                            We encourage ideas, thoughts and opinions and really
+                     listen to our people.  Imagination, determination, creativity and ambition – just a handful
+                     of ways we’d describe our people at Experian. Year on year, we’re growing
+                     and we want to encourage you to join us on our exciting journey. Our continued success
+                     means we look to attract the very best talent and we appreciate each and every individual.
+                     That’s why we developed ‘The Employee Deal’ to give back to those that
+                     give their all to us, with personal, social and development opportunities.    Providing opportunities for growth, personally and
+                     professionally.  We know that your commitment and performance will contribute directly to Experian’s
+                     success. So, we recognise and celebrate individual effort, as well as team performances
+                     and achievements.  We’re always looking for new ways to help our people achieve their potential
+                     and aspirations. That means pushing the boundaries and challenging how we do things.  We listen to our employees and actively encourage your ideas and opinions.
+                     It’s all about you developing your role and making it your own. Our business
+                     offers a breadth of learning activities and programmes, so it’s up to you to
+                     take the initiative and decide which skills you would like to enhance or develop.     Our people are our most valuable assets.  Our diverse workforce is part of the reason for our success. Our talent strategy
+                     reflects our commitment to searching the globe for the very best individuals, so that
+                     we can innovate and meet the needs of our increasingly diverse clients and consumers.
+                     Our progressive policies, such as flexible working hours, ensure that our employees
+                     can flourish regardless of their individual circumstance.  Our UK Gender Pay analysis  In our Gender Pay analysis report, you’ll find our results on the
+                     following:   Gender pay gap (mean and median averages)  Gender bonus gap (mean and median averages)  Proportion of men and women receiving bonuses  Proportion of men and women in each quartile of the organisation’s pay structure   Gender Pay is an issue that we take very seriously at Experian. We’re focused
+                     on creating greater balance and opportunity for women across our organisation –
+                     not just in the UK, but around the world. In the report you’ll find both the
+                     figures themselves and a deeper insight into life at Experian, showing the ways we
+                     support diversity across organisation today.  View our full report  We are extremely focused on creating greater balance and opportunity for women
+                     in Experian and it’s our goal to deliver better results for Gender Pay in the
+                     years ahead.    Let’s create a better tomorrow together.     x               Share             Search jobs   Find the perfect role for you and begin your career at
+                           Experian.  Search Global jobs          Tweets by @Experian_UK            Connect with us                                    Legal Terms & Conditions  Privacy policy  Cookies  CRAIN  £2 Statutory Credit Report  Press  Careers  Investor Relations  Contact Us                                         Experian Ltd is authorised and regulated by the Financial Conduct Authority.  Experian Ltd is registered in England and Wales under company registration number 653331. Registered office address: The Sir John Peace Building, Experian Way, NG2 Business Park, Nottingham NG80 1ZZ.                   Experian Global Sites      Argentina  Australia  Austria  Belgium  Brazil  Bulgaria  Canada  Chile  China  Colombia  Czech Republic    Denmark  Finland  France  Germany  Greece  Hong Kong  India  Ireland  Italy  Japan      Malaysia  Mexico  Netherlands  New Zealand  Norway  Peru  Poland  Russia  Singapore  South Africa  South Korea    Spain  Sweden  Switzerland  Thailand  Taiwan  Turkey  UAE  United Kingdom  United States  Vietnam                                   java.lang.RuntimeException: Failed to get data //mckwcmpap01/internet/main/global_sites/UK/WORKAREA/Content/templatedata/GlobalForms/OpenGraph/data/sample
+	at com.interwoven.livesite.file.impl.CsFileDal.read(CsFileDal.java:183)
+	at com.interwoven.livesite.file.impl.CsFileDal.read(CsFileDal.java:149)
+	at com.interwoven.livesite.model.property.DCRProperty.fetchDCRXML(DCRProperty.java:329)
+	at com.interwoven.livesite.runtime.model.page.RuntimeComponent.buildComponentTransformData(RuntimeComponent.java:319)
+	at com.interwoven.livesite.runtime.model.page.RuntimeComponent.transform(RuntimeComponent.java:370)
+	at com.interwoven.livesite.runtime.model.page.RuntimeComponent.transform(RuntimeComponent.java:341)
+	at com.interwoven.livesite.runtime.page.PageTokenVariableComponent.transformComponent(PageTokenVariableComponent.java:315)
+	at com.interwoven.livesite.runtime.page.PageTokenVariableComponent.renderNoCache(PageTokenVariableComponent.java:221)
+	at com.interwoven.livesite.runtime.page.PageTokenVariableComponent.preRender(PageTokenVariableComponent.java:106)
+	at com.interwoven.livesite.runtime.page.PageTokenContainer.preRender(PageTokenContainer.java:260)
+	at com.interwoven.livesite.runtime.model.page.RuntimePage.transform(RuntimePage.java:421)
+	at com.interwoven.livesite.model.page.PreviewPage.getBaseTransform(PreviewPage.java:218)
+	at com.interwoven.livesite.model.page.PreviewPage.transform(PreviewPage.java:206)
+	at com.interwoven.livesite.iw.servlet.preview.rendering.IntermediateRenderingManager.doOutputPage(IntermediateRenderingManager.java:277)
+	at com.interwoven.livesite.runtime.rendering.RenderingManager.renderPageGoal(RenderingManager.java:386)
+	at com.interwoven.livesite.runtime.rendering.RenderingManager.render(RenderingManager.java:256)
+	at com.interwoven.livesite.iw.servlet.preview.generate.GenerateFilter.generatePage(GenerateFilter.java:132)
+	at com.interwoven.livesite.iw.servlet.preview.generate.GenerateFilter.doFilter(GenerateFilter.java:75)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:346)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:259)
+	at io.undertow.servlet.core.ManagedFilter.doFilter(ManagedFilter.java:60)
+	at io.undertow.servlet.handlers.FilterHandler$FilterChainImpl.doFilter(FilterHandler.java:132)
+	at io.undertow.servlet.handlers.FilterHandler.handleRequest(FilterHandler.java:85)
+	at io.undertow.servlet.handlers.security.ServletSecurityRoleHandler.handleRequest(ServletSecurityRoleHandler.java:61)
+	at io.undertow.servlet.handlers.ServletDispatchingHandler.handleRequest(ServletDispatchingHandler.java:36)
+	at org.wildfly.extension.undertow.security.SecurityContextAssociationHandler.handleRequest(SecurityContextAssociationHandler.java:78)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.security.SSLInformationAssociationHandler.handleRequest(SSLInformationAssociationHandler.java:131)
+	at io.undertow.servlet.handlers.security.ServletAuthenticationCallHandler.handleRequest(ServletAuthenticationCallHandler.java:56)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.security.handlers.AbstractConfidentialityHandler.handleRequest(AbstractConfidentialityHandler.java:45)
+	at io.undertow.servlet.handlers.security.ServletConfidentialityConstraintHandler.handleRequest(ServletConfidentialityConstraintHandler.java:61)
+	at io.undertow.security.handlers.AuthenticationMechanismsHandler.handleRequest(AuthenticationMechanismsHandler.java:58)
+	at io.undertow.servlet.handlers.security.CachedAuthenticatedSessionHandler.handleRequest(CachedAuthenticatedSessionHandler.java:70)
+	at io.undertow.security.handlers.SecurityInitialHandler.handleRequest(SecurityInitialHandler.java:76)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at org.wildfly.extension.undertow.security.jacc.JACCContextIdHandler.handleRequest(JACCContextIdHandler.java:61)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.server.handlers.PredicateHandler.handleRequest(PredicateHandler.java:43)
+	at io.undertow.servlet.handlers.ServletInitialHandler.handleFirstRequest(ServletInitialHandler.java:247)
+	at io.undertow.servlet.handlers.ServletInitialHandler.dispatchRequest(ServletInitialHandler.java:234)
+	at io.undertow.servlet.handlers.ServletInitialHandler.access$000(ServletInitialHandler.java:76)
+	at io.undertow.servlet.handlers.ServletInitialHandler$1.handleRequest(ServletInitialHandler.java:153)
+	at io.undertow.server.Connectors.executeRootHandler(Connectors.java:197)
+	at io.undertow.server.HttpServerExchange$1.run(HttpServerExchange.java:737)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException: Cannot read file: //mckwcmpap01/internet/main/global_sites/UK/WORKAREA/Content/templatedata/GlobalForms/OpenGraph/data/sample
+	at com.interwoven.livesite.file.impl.CsFileDal.read(CsFileDal.java:163)
+	... 47 more             
