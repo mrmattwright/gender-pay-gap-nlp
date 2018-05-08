@@ -33,7 +33,7 @@ class DiversityDocument:
 
     def load_text(self):
         if self.has_downloaded_file:
-            fh = open(self.file_path,"r")
+            fh = open(self.file_path, "r", encoding="utf-8")
             return fh.read()
             print('Already downloaded %s -- %s' % (self.company_name, self.company_link))
         else:
@@ -95,6 +95,10 @@ class DiversityDocument:
         except timeout:
             print('socket timed out - URL %s' % (url))
             return None
+        except KeyboardInterrupt:
+            raise
+        except EOFError:
+            raise
         except:
             print('Exception caught %s' % (sys.exc_info()[0]))
             return None
@@ -126,6 +130,10 @@ class DiversityDocument:
         except timeout:
             print('socket timed out - URL %s' % (url))
             return None
+        except KeyboardInterrupt:
+            raise
+        except EOFError:
+            raise
         except:
             print('Exception caught %s' % (sys.exc_info()[0]))
             return None
