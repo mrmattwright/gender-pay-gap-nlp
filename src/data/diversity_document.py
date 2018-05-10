@@ -6,11 +6,11 @@ from pdfminer.layout import LAParams
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 import hashlib
+import json
 from socket import timeout
 from bs4 import BeautifulSoup
 from bs4.element import Comment
-import spacy
-import gensim
+import warnings
 from spacy.lang.en.stop_words import STOP_WORDS
 
 class DiversityDocument:
@@ -23,47 +23,65 @@ class DiversityDocument:
         self.url_hash = hash_object.hexdigest()
         self.is_pdf = self.company_link.lower().endswith('pdf')
         self.file_path = os.path.join(os.getcwd(), '../data/raw/' + self.url_hash)
+        self.clean_file_path = os.path.join(os.getcwd(), '../data/cleaned/' + self.url_hash + '.json')
         self.has_downloaded_file = os.path.isfile(self.file_path)
+        self.has_downloaded_clean_file = os.path.isfile(self.clean_file_path)
         self.raw_text = self.load_text()
-        #if self.raw_text:
-            #self.textacy_doc = textacy.Doc(self.raw_text, metadata=attributes.to_dict(), lang='en')
+        self.clean_text = self.clean_text()
 
     def __str__(self):
         return "%s -- %s" % (self.company_name, self.company_link)
 
     def load_text(self):
         if self.has_downloaded_file:
+            #print('Already downloaded %s -- %s' % (self.company_name, self.company_link))
             fh = open(self.file_path, "r", encoding="utf-8")
             return fh.read()
-            print('Already downloaded %s -- %s' % (self.company_name, self.company_link))
         else:
             return None
 
     def clean_text(self):
-        nlp = spacy.load('en')
-        doc = nlp(self.raw_text)
-        print(list(doc.sents)[0])
+        if self.has_downloaded_clean_file:
+            #print('Already downloaded clean text tokens for %s ' % (self.company_name))
+            with open(self.clean_file_path, 'r') as f:
+                doc = json.load(f)
+            return doc
+        else:
+            return self.save_clean_text()
 
-        ents = doc.ents  # Named entities.
-        # Keep only words (no numbers, no punctuation).
-        # Lemmatize tokens, remove punctuation and remove stopwords.
-        doc = [token.lemma_ for token in doc if token.is_alpha and not token.is_stop]
+    def save_clean_text(self):
+        if not self.raw_text:
+            return None
 
-        # Remove common words from a stopword list.
-        doc = [token for token in doc if token not in STOP_WORDS]
+        with warnings.catch_warnings():
+            warnings.filterwarnings("ignore",category=DeprecationWarning)
+            import spacy
+            nlp = spacy.load('en')
+            doc = nlp(self.raw_text)
 
-        # Add named entities, but only if they are a compound of more than word.
-        doc.extend([str(entity) for entity in ents if len(entity) > 1])
-        return doc
+            ents = doc.ents  # Named entities.
+            # Keep only words (no numbers, no punctuation).
+            # Lemmatize tokens, remove punctuation and remove stopwords.
+            doc = [token.lemma_ for token in doc if token.is_alpha and not token.is_stop and len(token) > 1]
+
+            # Remove common words from a stopword list.
+            doc = [token for token in doc if token not in STOP_WORDS]
+
+            # Add named entities, but only if they are a compound of more than word.
+            doc.extend([str(entity) for entity in ents if len(entity) > 1])
+            with open(self.clean_file_path, 'w') as f:
+                json.dump(doc, f)
+            return doc
 
     def download(self):
         print('Downloading (%s)....' % (self.company_link))
+
         if self.is_pdf:
             self.raw_text = self.convert_pdf_to_txt(self.company_link)
         else:
             self.raw_text = self.convert_url_to_txt(self.company_link)
+
         if self.raw_text:
-            #print(self.raw_text)
             open(self.file_path, 'wb').write(bytes(self.raw_text, 'utf-8'))
         return self.raw_text
 
